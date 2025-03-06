@@ -9,22 +9,7 @@ This project is an advanced e-learning platform designed to make learning more i
 - **Inbuilt Code Compiler:** Supports multiple programming languages like Python, JavaScript, C++, and Java.
 - **Progress Tracking:** Monitor your learning journey in real-time.
 - **Responsive Design:** Optimized for desktop and mobile devices.
-
-## Contributors
-Thanks to these amazing people for their contributions:
-
-<a href="https://github.com/abhishek252003/Final_Year_Project/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=abhishek252003/Final_Year_Project" />
-</a>
-
-### Individual Contributors
-| Name                | GitHub Profile                                         |
-|---------------------|-------------------------------------------------------|
-| **Aditya Dubey**          | [aditya9824bs](https://github.com/aditya9824bs)        |
-| **Aarav Jain**          | [jnaarav](https://github.com/jnaarav)                  |
-| **Abhishek Garg**   | [abhishekgarg10](https://github.com/abhishekgarg10)     |
-| **Abhishek Kumar Chaurasia** | [abhishek252003](https://github.com/abhishek252003) |
-
+- 
 ## Requirements
 - Node.js (v14.x or above)
 - npm or yarn package manager
