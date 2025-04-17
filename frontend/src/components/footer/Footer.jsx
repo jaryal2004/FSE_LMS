@@ -11,9 +11,8 @@ const Footer = () => (
         <SocialLink href="#" icon={<Instagram className="h-5 w-5" />} label="Instagram" />
       </div>
       <p className="text-sm text-gray-400 text-center">
-        © 2024 Your Skill-Hub Platform. All rights reserved.
+        2024 Your Skill-Hub Platform. All rights reserved.
         <br />
-        Made by ❤️ 
       </p>
     </div>
   </footer>
