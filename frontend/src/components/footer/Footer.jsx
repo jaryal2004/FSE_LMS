@@ -13,6 +13,7 @@ const Footer = () => (
       <p className="text-sm text-gray-400 text-center">
         2024 Your Skill-Hub Platform. All rights reserved.
         <br />
+        
       </p>
     </div>
   </footer>

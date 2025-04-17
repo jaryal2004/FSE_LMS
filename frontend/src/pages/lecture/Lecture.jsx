@@ -222,7 +222,7 @@ const [lectures, setLectures] = useState([]);
                   ) : (
                     <Card>
                       <CardContent className="flex items-center justify-center h-64">
-                        <h2 className="text-2xl font-semibold text-gray-500">Please Select a Lecture</h2>
+                        <h2 className="text-2xl font-semibold text-gray-500">Please Select a Lecture. </h2>
                       </CardContent>
                     </Card>
                   )}

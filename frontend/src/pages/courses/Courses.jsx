@@ -16,7 +16,7 @@ const Courses = () => {
         transition={{ duration: 0.5 }}
       >
         <h1 className="text-3xl md:text-4xl font-bold text-center mb-12">
-          Available Courses
+          Available-Courses
         </h1>
 
         {courses && courses.length > 0 ? (

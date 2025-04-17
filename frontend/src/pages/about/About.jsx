@@ -13,7 +13,7 @@ export default function About() {
           <p className="text-xl text-black mb-4"> 
             At Skill-Hub, we believe education is the cornerstone of progress and personal growth. Our mission is to
             bridge the gap between ambition and achievement by delivering world-class learning experiences that inspire,
-            empower, and transform lives.
+            empower, and transform lives of many students.
           </p>
         </section>
 
@@ -21,7 +21,7 @@ export default function About() {
 
         <section>
           <p className="mb-4">
-            Skill-Hub is more than just an eLearning platform—it&apos;s a community of learners, educators, and
+            Skill-Hub is more than just an eLearning platform—it and a community of learners, educators, and
             innovators. We provide a dynamic space where knowledge is shared, skills are developed, and potential is
             unlocked. From foundational courses to advanced professional training, our platform is designed to meet the
             diverse needs of learners worldwide.
@@ -29,7 +29,7 @@ export default function About() {
         </section>
 
         <section>
-          <h2 className="text-2xl font-semibold mb-6">What sets Skill-Hub apart</h2>
+          <h2 className="text-2xl font-semibold mb-6">What sets Skill-Hub apart !!</h2>
           <div className="grid gap-6 md:grid-cols-2 bg-blue-300 p-6 rounded-lg">
             <FeatureCard className="text-primary"
               icon={<Users className="h-6 w-6 " />}
@@ -58,8 +58,8 @@ export default function About() {
 
         <section className="text-center bg-blue-300 p-6 rounded-lg">
           <p className="mb-4">
-            Whether you&apos;re preparing for a new career, upgrading your skills, or exploring your passions, Skill-Hub
-            is here to support your journey every step of the way. Together, let&apos;s unlock potential, drive
+            Whether you are preparing for a new career, upgrading your skills, or exploring your passions, Skill-Hub
+            is here to support your journey every step of the way. Together, let us unlock potential, drive
             innovation, and create a brighter future for everyone.
           </p>
           <p className="text-2xl font-semibold text-primary">
