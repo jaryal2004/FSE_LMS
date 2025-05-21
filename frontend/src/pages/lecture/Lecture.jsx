@@ -301,7 +301,7 @@ const [lectures, setLectures] = useState([]);
                         </div>
                       ))
                     ) : (
-                      <p className="text-center text-gray-500">No Lectures Yet!</p>
+                      <p className="text-center text-gray-500">No Lectures Yet!!!!!</p>
                     )}
                   </ScrollArea>
                 </CardContent>
