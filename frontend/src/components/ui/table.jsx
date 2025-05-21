@@ -24,7 +24,7 @@ const TableBody = React.forwardRef(({ className, ...props }, ref) => (
     {...props} />
 ))
 TableBody.displayName = "TableBody"
-
+// updated
 const TableFooter = React.forwardRef(({ className, ...props }, ref) => (
   <tfoot
     ref={ref}

@@ -18,7 +18,7 @@ const Footer = () => (
     </div>
   </footer>
 );
-
+// updated
 const SocialLink = ({ href, icon, label }) => (
   <Link to={href} className="text-gray-600 hover:text-gray-900 transition-colors" aria-label={label}>
     {icon}

@@ -12,7 +12,7 @@ import { User, Clock, IndianRupee } from "lucide-react";
 import { Dialog } from "@/components/ui/dialog";
 import { LogIn } from "lucide-react";
 
-
+// updated
 const CourseCard = ({ course }) => {
   const navigate = useNavigate();
   const { user, isAuth } = UserData();

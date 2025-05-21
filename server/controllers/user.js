@@ -15,7 +15,7 @@ export const register = TryCatch(async (req, res) => {
     });
 
   const hashPassword = await bcrypt.hash(password, 10);
-
+// updated
   user = {
     name,
     email,

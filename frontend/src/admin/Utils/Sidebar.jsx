@@ -19,7 +19,7 @@ const Sidebar = () => {
             <span>Home</span>
           </Link>
         </li>
-
+// updated
         <li>
           <Link to={"/admin/course"}>
             <div className="icon">

@@ -33,7 +33,7 @@ const testimonials = [
     image: "https://media.licdn.com/dms/image/v2/D5635AQEfOBaRv7ZYaw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1727538937307?e=1738130400&v=beta&t=Etwdo3ARG4GacrXVJ7-AX7WK3VufEd2AiH81VO9jNrM"
   }
 ];
-
+// updated
 const Testimonials = () => (
   <section className="py-16 sm:py-24 bg-black">
     <div className="container mx-auto px-4 sm:px-6 lg:px-8">

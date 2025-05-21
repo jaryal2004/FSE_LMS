@@ -7,7 +7,7 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 import { Separator } from "@/components/ui/separator"
 import { toast } from "react-hot-toast"
-
+// updated
 export default function Account({ user }) {
   const { setIsAuth, setUser } = UserData()
   const navigate = useNavigate()

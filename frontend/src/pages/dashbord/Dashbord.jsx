@@ -18,5 +18,5 @@ const Dashbord = () => {
     </div>
   );
 };
-
+// updated
 export default Dashbord;

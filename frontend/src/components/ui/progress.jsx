@@ -19,5 +19,5 @@ const Progress = React.forwardRef(({ className, value, ...props }, ref) => (
   </ProgressPrimitive.Root>
 ))
 Progress.displayName = ProgressPrimitive.Root.displayName
-
+// updated
 export { Progress }

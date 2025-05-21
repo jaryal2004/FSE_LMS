@@ -22,7 +22,7 @@ export default function CourseStudy({ user }) {
   if (!course) {
     return <div className="flex justify-center items-center h-screen">Loading...</div>
   }
-
+// updated
   return (
     <div className="container mx-auto px-4 py-8">
       <Card className="overflow-hidden">

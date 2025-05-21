@@ -298,6 +298,7 @@ const [lectures, setLectures] = useState([]);
                               Delete {e.title}
                             </Button>
                           )}
+                          // updated
                         </div>
                       ))
                     ) : (

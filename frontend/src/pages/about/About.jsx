@@ -70,7 +70,7 @@ export default function About() {
     </div>
   )
 }
-
+// updated
 function FeatureCard({ icon, title, description }) {
   return (
     <div className="bg-muted p-6 rounded-lg shadow-sm">

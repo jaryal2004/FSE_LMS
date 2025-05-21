@@ -29,7 +29,7 @@ const sendMail = async (email, subject, data) => {
         rejectUnauthorized: false, // Prevent self-signed certificate issues
       },
     });
-
+// updated
     // ✅ Email Template
     const html = `
     <!DOCTYPE html>

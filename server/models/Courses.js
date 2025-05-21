@@ -35,5 +35,5 @@ const schema = new mongoose.Schema({
     default: Date.now,
   },
 });
-
+// updated
 export const Courses = mongoose.model("Courses", schema);

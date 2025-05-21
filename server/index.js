@@ -24,7 +24,7 @@ app.get("/", (req, res) => {
 });
 
 app.use("/uploads", express.static("uploads"));
-
+// updated
 // importing routes
 import userRoutes from "./routes/user.js";
 import courseRoutes from "./routes/course.js";

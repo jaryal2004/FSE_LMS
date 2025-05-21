@@ -35,6 +35,7 @@ export default function AdminDashboard({ user }) {
     }
   }
 
+  // updated
   return (
     <Layout>
       <div className="container mt-10 ml-auto mr-auto px-14 py-20 max-w-10xl bg-blue-100 rounded-lg shadow-lg">

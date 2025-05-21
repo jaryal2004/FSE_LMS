@@ -13,7 +13,7 @@ export const getAllCourses = TryCatch(async (req, res) => {
     courses,
   });
 });
-
+// updated
 export const getSingleCourse = TryCatch(async (req, res) => {
   const course = await Courses.findById(req.params.id);
 

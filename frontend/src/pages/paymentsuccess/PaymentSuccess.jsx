@@ -19,5 +19,5 @@ const PaymentSuccess = ({ user }) => {
     </div>
   );
 };
-
+//payment added
 export default PaymentSuccess;

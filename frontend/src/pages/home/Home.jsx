@@ -19,7 +19,7 @@ export default function Home() {
                         className="max-w-3xl mx-auto text-center space-y-8"
           >
 
-
+// updated
             <motion.h1 
              animate={{ x: [0, 50, 0] }} 
             

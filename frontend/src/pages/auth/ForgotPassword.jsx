@@ -24,6 +24,7 @@ const ForgotPassword = () => {
       setBtnLoading(false);
     }
   };
+  // updated
   return (
     <div className="auth-page flex items-center justify-center">
       <div className="auth-form gap-3">
